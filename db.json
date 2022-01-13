@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Meeting",
+      "day": "September 18th at 8h00 pm",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "School",
+      "day": "February 18th at 11h00 am",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Cooking Dinner",
+      "day": "March 5th at 9h00 pm",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
